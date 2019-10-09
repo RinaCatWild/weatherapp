@@ -1,2 +1,3 @@
 # weatherapp
-ReactJS project which shows the weather in selected city.
+A simple ReactJS application that shows the weather in any city.
+Use 'npm i' and then 'npm start' to start.
